@@ -2,7 +2,7 @@
 A repository containing data and scripts about websites performing cryptojacking
 
 ### Data
-Inside the 'Data' folder you can find the list of websites, in the Top 7.5M Tranco list (more information on Tranco [here](https://tranco-list.eu/), that were detected to perform cryptojacking using the [Minesweeper](https://github.com/vusec/minesweeper) tool.
+Inside the 'Data' folder you can find the list of websites, in the Top 7.5M Tranco list (more information on Tranco [here](https://tranco-list.eu/)), that were detected to perform cryptojacking using the [Minesweeper](https://github.com/vusec/minesweeper) tool.
 You will also find information about the technical characteristics of the website in terms of server and CMS type, as well as other publicly available information collected by interacting with the website.
 
 ### Scripts
