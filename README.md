@@ -1,4 +1,4 @@
-# A case-control study of the cryptojacking ecosystem
+# A Case-Control Study on the Cryptojacking Ecosystem
 A repository containing data and scripts about websites performing cryptojacking
 
 ### Data
